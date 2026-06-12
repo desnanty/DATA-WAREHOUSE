@@ -3,7 +3,9 @@
 ## Authors
 
 Shakyla Andhara Chandraningtyas (24031554199)
+
 Fajria Rasmi Ridha Rumkel (24031554191)
+
 Desnanty Ratna Aulia (24031554163)
 
 ## Project Overview
